@@ -21,7 +21,7 @@ The project includes Test Cases, Bug Reports, and Test Summary Report, created f
 | Test Summary Report | Overall test execution result and defect statistics |
 
 ## Live Google Sheet
-You can view the full testing documents here:  https://docs.google.com/spreadsheets/d/1OwWGtJDqmSsnn528bc2KIEfatKOVOER2E32bt-RMO8s/edit?gid=1299518873#gid=1299518873
+You can view the entire project here:  https://docs.google.com/spreadsheets/d/1OwWGtJDqmSsnn528bc2KIEfatKOVOER2E32bt-RMO8s/edit?gid=1299518873#gid=1299518873
 
 ## Key Learnings
 - Learned how to design structured test cases
