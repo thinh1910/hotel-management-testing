@@ -5,8 +5,7 @@ This repository contains my **manual testing project** for a Hotel Management Sy
 The project includes Test Cases, Bug Reports, and Test Summary Report, created for learning and academic purposes.
 
 ## Project Overview
-**Objective:**  
-Practice manual testing process on a hotel management system.
+**Objective:**  Practice manual testing process on a hotel management system.
 
 **Scope:**
 - Designed detailed test cases based on functional requirements
